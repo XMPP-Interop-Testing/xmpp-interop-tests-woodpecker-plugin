@@ -1,3 +1,7 @@
+# Not in use
+
+This repository should no longer be used. For Woodpecker CI, use the Drone CI plugin, that is being developed in [XMPP-Interop-Testing/xmpp-interop-tests-drone-plugin](https://github.com/XMPP-Interop-Testing/xmpp-interop-tests-drone-plugin)
+
 # xmpp-interop-tests-woodpecker-plugin
 
 Woodpecker plugin for testing XMPP interoperability
